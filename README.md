@@ -1,4 +1,6 @@
-# software
+# Software
+
+### You will need to install the following software for EDCT-GE 2550.
 
 ## [R 3.2.3](https://www.r-project.org/)
 Resources: [Poulson, B. Up and Running with R. Lynda.com. Section 1 - 2](http://www.lynda.com/R-tutorials/Up-Running-R/120612-2.html?org=nyu.edu)
@@ -9,7 +11,7 @@ Resources: [Poulson, B. Up and Running with R. Lynda.com. Section 1 - 2](http://
 
 ## [Zotero](https://www.zotero.org/)
 
-##The file dse-references.rdf contains bibliographic information for all references used this semester.
+### The file dse-references.rdf contains bibliographic information for all references used this semester.
 
 1. Clone this repository to your own account
 2. Download the zotero dse-references.rdf

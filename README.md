@@ -27,6 +27,8 @@ Twitter will be used to:
   * In class communication (backchannel) including identifying when a student is not following content:
     * For example, if instructions are unclear or the lecture is difficult to follow tweet #EDCTGE2550 #IDKWGO
 
+Be a good Twitizen, check out this [etiquette guide](http://mashable.com/2013/10/14/twitter-etiquette/) for engaging on Twitter.
+
 ## [Github](www.github.com)
 
 ## [Zotero](www.zotero.org)

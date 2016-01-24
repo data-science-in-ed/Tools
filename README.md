@@ -6,3 +6,6 @@ Resources: [Poulson, B. Up and Running with R. Lynda.com. Section 1 - 2](http://
 ## [RStudio 0.99.386](https://www.rstudio.com/)
 
 ## [Firefox 43.0.4](https://www.mozilla.org/en-US/firefox/new/)
+
+## [Zotero](https://www.zotero.org/)
+

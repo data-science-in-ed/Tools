@@ -26,3 +26,7 @@ Twitter will be used to:
   * Comment on readings
   * In class communication (backchannel) including identifying when a student is not following content:
     * For example, if instructions are unclear or the lecture is difficult to follow tweet #EDCTGE2550 #IDKWGO
+
+## [Github](www.github.com)
+
+## [Zotero](www.zotero.org)

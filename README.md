@@ -9,3 +9,8 @@ Resources: [Poulson, B. Up and Running with R. Lynda.com. Section 1 - 2](http://
 
 ## [Zotero](https://www.zotero.org/)
 
+##The file dse-references.rdf contains bibliographic information for all references used this semester.
+
+1. Clone this repository to your own account
+2. Download the zotero dse-references.rdf
+3. Import the .rdf file into Zotero according to the instructions [here](https://www.zotero.org/support/getting_stuff_into_your_library).

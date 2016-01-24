@@ -1,5 +1,7 @@
 # Software
 
+In EDCT-GE 2550 we will be using several online services and software packages to set up a learning analytics system (see the image learning_analytics_diamond.png in this repository for more information). In order to both particpate in the class and collect data from teh class all students will need to have operational, up-to-date accounts and installations of these tools.
+
 ### You will need to install the following software for EDCT-GE 2550.
 
 ## [R 3.2.3](https://www.r-project.org/)

@@ -26,6 +26,7 @@ Be a good Twitizen, check out this [etiquette guide](http://mashable.com/2013/10
 Resources: [Poulson, B. Up and Running with R. Lynda.com. Section 1 - 2](http://www.lynda.com/R-tutorials/Up-Running-R/120612-2.html?org=nyu.edu)
 
 ## [RStudio 0.99.386](https://www.rstudio.com/)
+[NYU Data Services for R](http://guides.nyu.edu/r)
 
 ## [Firefox 43.0.4](https://www.mozilla.org/en-US/firefox/new/)
 

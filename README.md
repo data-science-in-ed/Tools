@@ -36,7 +36,9 @@ The file dse-references.rdf contains bibliographic information for all reference
 1. Download the the Tools repository zip file and extract the dse-references.rdf file
 3. Import the dse-references.rdf file into Zotero according to the instructions [here](https://www.zotero.org/support/getting_stuff_into_your_library).
 
-## [Git](https://git-scm.com/downloads). Instructions for setup can be found [here](https://help.github.com/articles/set-up-git/).
+## [Git](https://git-scm.com/downloads). 
+
+Instructions for setup can be found [here](https://help.github.com/articles/set-up-git/).
 
 ### You will need to link your Github account to RStudio by following [these instructions](https://support.rstudio.com/hc/en-us/articles/200532077-Version-Control-with-Git-and-SVN).
 

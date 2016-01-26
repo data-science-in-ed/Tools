@@ -18,6 +18,10 @@ Be a good Twitizen, check out this [etiquette guide](http://mashable.com/2013/10
 
 ## [Github](www.github.com)
 
+## [Git](https://git-scm.com/downloads) 
+
+Instructions for setup can be found [here](https://help.github.com/articles/set-up-git/) and [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
+
 ## [Zotero](www.zotero.org)
 
 ### You will need to install the following software for EDCT-GE 2550.
@@ -37,9 +41,6 @@ The file dse-references.rdf contains bibliographic information for all reference
 1. Download the the Tools repository zip file and extract the dse-references.rdf file
 3. Import the dse-references.rdf file into Zotero according to the instructions [here](https://www.zotero.org/support/getting_stuff_into_your_library).
 
-## [Git](https://git-scm.com/downloads) 
-
-Instructions for setup can be found [here](https://help.github.com/articles/set-up-git/).
 
 You will also need to link your Github account to RStudio by following [these instructions](https://support.rstudio.com/hc/en-us/articles/200532077-Version-Control-with-Git-and-SVN).
 

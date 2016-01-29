@@ -16,9 +16,9 @@ Twitter will be used to:
 
 Be a good Twitizen, check out this [etiquette guide](http://mashable.com/2013/10/14/twitter-etiquette/) for engaging on Twitter.
 
-## [Github](www.github.com)
-
 ## [Git](https://git-scm.com/downloads) 
+
+## [Github](https://github.com/join?source=header)
 
 Instructions for setup can be found [here](https://help.github.com/articles/set-up-git/) and [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
 

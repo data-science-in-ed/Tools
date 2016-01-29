@@ -29,6 +29,8 @@ Instructions for setup can be found [here](https://help.github.com/articles/set-
 ## [R 3.2.3](https://www.r-project.org/)
 Resources: [Poulson, B. Up and Running with R. Lynda.com. Section 1 - 2](http://www.lynda.com/R-tutorials/Up-Running-R/120612-2.html?org=nyu.edu)
 
+Connecting Github to RStudio: [The Molecular Ecologist](http://www.molecularecologist.com/2013/11/using-github-with-r-and-rstudio/) and/or [RStudio Help](https://support.rstudio.com/hc/en-us/articles/200532077-Version-Control-with-Git-and-SVN)
+
 ## [RStudio 0.99.386](https://www.rstudio.com/)
 [NYU Data Services for R](http://guides.nyu.edu/r)
 

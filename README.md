@@ -40,7 +40,7 @@ Connecting Github to RStudio: [The Molecular Ecologist](http://www.molecularecol
 
 The file dse-references.rdf contains bibliographic information for all references used this semester.
 
-1. Download the the Tools repository zip file and extract the dse-references.rdf file
+1. Download the Tools repository zip file and extract the dse-references.rdf file
 3. Import the dse-references.rdf file into Zotero according to the instructions [here](https://www.zotero.org/support/getting_stuff_into_your_library).
 
 
